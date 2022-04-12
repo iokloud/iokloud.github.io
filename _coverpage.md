@@ -8,9 +8,9 @@
 
 - پلتفرم اینترنت اشیاء | وب | موبایل
 - بهره گیری از معماری میکرو سرویس
-- با کمترین نیاز به دردسرهای کد نویسی Server side
+- بدون نیاز به دردسرهای کد نویسی Server side
 
-<a href="http://demo.iokloud.ir" target="_blank">Demo</a>
+[About Us](about.md)
 [Get Started](quickstart.md)
 
 

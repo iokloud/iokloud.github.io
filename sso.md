@@ -52,3 +52,5 @@ Users > Add User
 
 بعد از اینکه کلمه عبور ذخیره شد و دسترسی ها در قسمت Authorization ایجاد شد حالا می توانید از طریق پورت ۱۸۸۳ و از طریق پرتکل MQTTبه بروکر متصل شوید.
 برای آشنایی بیشتر با مراحل و تنظیمات سرور این ویدیو را تماشا کنید.
+
+<style>.h_iframe-aparat_embed_frame{position:relative;}.h_iframe-aparat_embed_frame .ratio{display:block;width:100%;height:auto;}.h_iframe-aparat_embed_frame iframe{position:absolute;top:0;left:0;width:100%;height:100%;}</style><div class="h_iframe-aparat_embed_frame"><span style="display: block;padding-top: 57%"></span><iframe src="https://www.aparat.com/video/video/embed/videohash/VpA0R/vt/frame" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
