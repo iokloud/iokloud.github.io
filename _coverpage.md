@@ -4,7 +4,7 @@
 
 # ioCloud
 
-> Cloud Service for IoT Platform & Backend
+> Cloud Service for IoT & Backend
 
 - پلتفرم اینترنت اشیاء | وب | موبایل
 - بهره گیری از معماری میکرو سرویس

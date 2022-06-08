@@ -6,7 +6,7 @@
   * [Quick start](quickstart.md)
   
 
-* Services
+* خدمات
   * [MQTT](mqtt.md)
   * [HTTP](http.md)
   * [Single Sign On](sso.md)

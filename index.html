@@ -8,17 +8,20 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="css/fonts.css" />
+
 </head>
 
-<body>
+<body style="font-family:BYekan">
   <div id="app"></div>
   <script>
     window.$docsify = {
       loadSidebar: true,
       loadNavbar: true,
       coverpage: true,
-      name: '',
-      repo: '',
+      loadFooter: true,
+      name: 'ioCloud',
+      repo: 'https://github.com/iokloud/iokloud.github.io',
       rtl: {
         body: "rtl",
         side: "ltr",
@@ -39,6 +42,11 @@
   <script src="//unpkg.com/docsify-rtl/build/index.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-php.min.js"></script>
+
+  <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
+
+  <!-- Place this tag in your head or just before your close body tag. -->
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
 
   <!-- docsify-tabs (latest v1.x.x) -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
