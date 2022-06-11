@@ -7,8 +7,7 @@
   
 
 * خدمات
-  * [MQTT](mqtt.md)
-  * [HTTP](http.md)
+  * [IoT](iot.md)
   * [Single Sign On](sso.md)
 
 

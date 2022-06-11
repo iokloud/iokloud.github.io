@@ -1,4 +1,6 @@
-### کار با MQTT
+### IoT Messaging
+اشیاء متصل به اینترنت بر خلاف انسان ها که تنها در مواقع نیاز می بایست به اینترنت متصل شوند همیشه باید به پیغام ها از سمت سرور گوش فرا دهند و به صورت پیوسته پیغام هایی مبنی بر وضعبت خود رد و بدل می کنند.
+
 یکی از پرتکل های محبوب در اینترنت اشیا و Pub/Sub Messaging پرتکل MQTT است. این پرتکل از از مدل ستاره ای یعنی بروکر و کلاینت تشکیل یافته است. هر دستگاه اینترنت اشیا یک کلاینت می باشد و پلتفرم به عنوان بروکر شناخته می شود. در این ویدیو معماری این پرتکل پرداخته می شود.
 
 <style>.h_iframe-aparat_embed_frame{position:relative;}.h_iframe-aparat_embed_frame .ratio{display:block;width:100%;height:auto;}.h_iframe-aparat_embed_frame iframe{position:absolute;top:0;left:0;width:100%;height:100%;}</style><div class="h_iframe-aparat_embed_frame"><span style="display: block;padding-top: 57%"></span><iframe src="https://www.aparat.com/video/video/embed/videohash/3x26G/vt/frame?recom=none" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
