@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="10mm"
+   height="16.18mm"
+   viewBox="0 0 10 16.18"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     transform="translate(-70.177034,-40.829303)">
+    <rect
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#fffffc;stroke-width:0;stroke-linejoin:round"
+       id="rect65-0"
+       width="10"
+       height="16.179998"
+       x="70.177032"
+       y="40.829304"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:Rachana;-inkscape-font-specification:Rachana;word-spacing:0px;fill:#ffffff;stroke-width:0.264583"
+       x="71.087463"
+       y="55.353249"
+       id="text331-6"><tspan
+         id="tspan329-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Rachana;-inkscape-font-specification:Rachana;fill:#ffffff;stroke-width:0.264583"
+         x="71.087463"
+         y="55.353249"
+         rotate="0 270 0">i<tspan
+   style="font-size:0.352778px"
+   id="tspan961"> </tspan>o</tspan></text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#fffffc;stroke-width:0;stroke-linejoin:round"
+       id="path694-2"
+       d="m 65.559417,42.922203 3.923779,-2.265395 0,4.53079 z"
+       transform="matrix(0.5516692,0,0,0.70567522,40.262217,23.551639)" />
+  </g>
+</svg>

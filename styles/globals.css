@@ -1,0 +1,67 @@
+@tailwind base;
+
+/* Write your own custom base styles here */
+
+/* Start purging... */
+@tailwind components;
+/* Stop purging. */
+
+/* Write your own custom component styles here */
+.btn-black {
+  @apply border border-black bg-black text-white font-bold py-2 px-4 rounded text-center;
+}
+.btn-black:hover {
+  @apply transition duration-150 bg-white text-black;
+}
+.btn-black-outline {
+  @apply border border-black text-black py-2 px-4 rounded font-bold text-center;
+}
+.btn-black-outline:hover {
+  @apply transition duration-150 bg-black text-white;
+}
+
+/* Start purging... */
+@tailwind utilities;
+/* Stop purging. */
+
+/* Your own custom utilities */
+
+html,
+body,
+#__next {
+  height: 100vh;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 4rem;
+  font-weight: bold;
+  display: block;
+}
+
+
+@font-face {
+  font-family: IRANSansMobile-fa;
+  src: url('./IranianSans.ttf')
+}
+
+.fontFa {
+  font-family: IRANSansMobile-fa;
+}
+
+
+.hFa {
+  font-size: 1.5rem;
+  font-family: IRANSansMobile-fa;
+}
+
+
+.h2Fa {
+  font-size: 1.3rem;
+  font-family: IRANSansMobile-fa;
+}
+
+.h3Fa {
+  font-size: 1rem;
+  font-family: IRANSansMobile-fa;
+}

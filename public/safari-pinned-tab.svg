@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="9.9999962mm"
+   height="10mm"
+   viewBox="0 0 9.9999962 10"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     transform="translate(-57.602674,-69.824705)">
+    <rect
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#fffffc;stroke-width:0;stroke-linejoin:round"
+       id="rect65-3"
+       width="10"
+       height="10"
+       x="57.602673"
+       y="69.824707"
+       ry="1.5691783" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:Rachana;-inkscape-font-specification:Rachana;word-spacing:0px;fill:#ffffff;stroke-width:0.264583"
+       x="58.611118"
+       y="76.709602"
+       id="text331-67"><tspan
+         id="tspan329-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Rachana;-inkscape-font-specification:Rachana;fill:#ffffff;stroke-width:0.264583"
+         x="58.611118"
+         y="76.709602">io</tspan></text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#fffffc;stroke-width:0;stroke-linejoin:round"
+       id="path694-3"
+       d="m 65.559417,42.922203 3.923779,-2.265395 0,4.53079 z"
+       transform="matrix(0.5516692,0,0,0.70567522,27.78587,44.907995)" />
+  </g>
+</svg>
