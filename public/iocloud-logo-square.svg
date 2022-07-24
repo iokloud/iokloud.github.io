@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="10mm"
+   height="10mm"
+   viewBox="0 0 10 10"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (1:1.2+202206011327+fc4e4096c5)"
+   sodipodi:docname="iocloud-logo-goldenraio.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="5.4224218"
+     inkscape:cx="305.02976"
+     inkscape:cy="188.20004"
+     inkscape:window-width="1294"
+     inkscape:window-height="704"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-70.177034,-48.76681)">
+    <rect
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#fffffc;stroke-width:0;stroke-linejoin:round"
+       id="rect65-0"
+       width="10"
+       height="10"
+       x="70.177032"
+       y="48.766811"
+       ry="0"
+       inkscape:export-filename="iocloud-logo-goldenratio.svg"
+       inkscape:export-xdpi="126.934"
+       inkscape:export-ydpi="126.934" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:Rachana;-inkscape-font-specification:Rachana;word-spacing:0px;fill:#ffffff;stroke-width:0.264583"
+       x="71.087463"
+       y="55.353249"
+       id="text331-6"><tspan
+         sodipodi:role="line"
+         id="tspan329-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Rachana;-inkscape-font-specification:Rachana;fill:#ffffff;stroke-width:0.264583"
+         x="71.087463"
+         y="55.353249"
+         rotate="0 270 0">i<tspan
+   style="font-size:0.352778px"
+   id="tspan961"> </tspan>o</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#fffffc;stroke-width:0;stroke-linejoin:round"
+       id="path694-2"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="68.17527"
+       sodipodi:cy="42.922203"
+       sodipodi:r1="2.6158526"
+       sodipodi:r2="1.3079263"
+       sodipodi:arg1="-3.1415927"
+       sodipodi:arg2="-2.0943951"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 65.559417,42.922203 3.923779,-2.265395 0,4.53079 z"
+       inkscape:transform-center-x="0.36077263"
+       transform="matrix(0.5516692,0,0,0.70567522,40.262217,23.551639)" />
+  </g>
+</svg>
