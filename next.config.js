@@ -8,7 +8,7 @@ const nextConfig = {
     loader: 'akamai',
     path: '',
   },
-  basePath: "/iokloud.github.io",
+  basePath: "/",
   assetPrefix: "/iokloud.github.io"
 }
 
