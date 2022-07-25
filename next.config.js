@@ -4,7 +4,12 @@ const isProd = process.env.NODE_ENV === 'production'
 
 const nextConfig = {
   reactStrictMode: true,
-  assetPrefix: isProd ? 'https://cdn.statically.io/gh/iokloud/iokloud.github.io/gh-pages/' : '',
+  images: {
+    loader: 'akamai',
+    path: '',
+  },
+  basePath: "/iokloud.github.io",
+  assetPrefix: "/iokloud.github.io"
 }
 
 module.exports = nextConfig
