@@ -7,9 +7,7 @@ const nextConfig = {
   images: {
     loader: 'akamai',
     path: '',
-  },
-  basePath: "/",
-  assetPrefix: "/iokloud.github.io"
+  }
 }
 
 module.exports = nextConfig
